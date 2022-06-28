@@ -60,7 +60,7 @@ class _SignWithScreenState extends State<SignWithScreen> {
                 RoundeIconButton(
                   
                   onPressed:(){
-                 Get.off(LoginScreen());
+                 Get.to(LoginScreen());
                 },
                 
                 colour: Colors.teal,
@@ -74,7 +74,7 @@ class _SignWithScreenState extends State<SignWithScreen> {
                 ),
                  RoundeIconButton(
                   onPressed:(){
-                  Get.off(CreateTe());
+                  Get.to(CreateTe());
                 },
                 
                 colour: Colors.teal,

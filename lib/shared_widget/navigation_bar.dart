@@ -13,7 +13,7 @@ class NavigationBarScreen extends StatefulWidget {
 }
 
 class _NavigationBarScreenState extends State<NavigationBarScreen> {
-  int selected = 0;
+  int selected = 1;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
