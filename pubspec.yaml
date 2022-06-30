@@ -65,15 +65,8 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - assets/images/main_top.png
-    - assets/images/main_bottom.png
-    - assets/images/appIcon.png
-    - assets/images/homeScreenTop.png
-   # - assets/images/shar.png
-   # - assets/images/shart.png
-    - assets/images/sharmk.png
-    - assets/images/sharmce.png 
-    - assets/images/math.png
+    - assets/images/
+  
 
 
   # To add assets to your application, add an assets section, like this:
